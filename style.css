@@ -1,0 +1,8 @@
+.square {
+  width: 25px;
+  height: 25px;
+  background-color: red;
+  margin: 5px;
+  display: inline-block;
+  position: relative;
+}
